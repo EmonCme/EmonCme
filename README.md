@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/StYpMQt/null-20211216-WA0102.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https://telegra.ph/file/065ea6cc5520f5765c963.jpg" width="100%" alt="API Giphy logo"/>
 
 </p>
 
